@@ -32,7 +32,7 @@ main {
 
 .mensaje {
     background: white ;
-    background-image: url("/IMG/Muñeco.png");
+    background-image: url("/Text_Encryptor/IMG/Muñeco.png");
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
